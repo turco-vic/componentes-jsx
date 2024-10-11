@@ -1,0 +1,9 @@
+
+.link {
+    text-decoration: none;
+    color: #a2ffb9;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 0.5rem;
+}
