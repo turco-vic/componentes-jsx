@@ -3,10 +3,11 @@
   justify-content: space-between;
   align-items: center;
   padding: 1rem 0;
-  background-color: #b8b8b8;
+  background-color: #104d5c;
   border-bottom: 1px solid #a2ffb9;
   padding-left: 1rem;
   padding-right: 1rem;
+  color: #a2ffb9;
 }
 
 .links {
