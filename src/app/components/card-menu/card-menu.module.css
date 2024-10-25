@@ -1,0 +1,9 @@
+.pizzaCard{
+    width: 30%;
+    padding: 15px;
+    text-align: center;
+    background-color: #104d5c;
+    box-shadow: 0 4px 8px #a2ffb9;
+    margin-top: 30px;
+    margin-bottom: 40px;
+  }

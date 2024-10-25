@@ -4,3 +4,10 @@
   text-align: center;
   margin-top: 1.5rem;
 }
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: wrap;
+  margin-top: 20px;
+}
